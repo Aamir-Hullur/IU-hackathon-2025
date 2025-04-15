@@ -7,9 +7,8 @@
 ---
 ## Demo
 
-<div align="center">
-   <img src="https://raw.githubusercontent.com/Aamir-Hullur/IU-hackathon-2025/refs/heads/main/assets/demo.mp4" width="800" alt="Demo Video">
-</div>
+https://github.com/user-attachments/assets/8934c27f-0573-4c18-b83c-a9bfed38c548
+
 ---
 
 ## 📋 Project Overview
