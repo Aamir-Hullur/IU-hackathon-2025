@@ -2,12 +2,14 @@
 
 *Service WOW* is a full-stack web platform that enables teams to submit, evaluate, and analyze innovative ideas in real time. It integrates a responsive UI with an AI-enhanced backend that automatically scores and prioritizes submitted ideas using Google's Gemini model, providing leaders with actionable insights.
 
-> **IUB Luddy Hackathon 2025 Submission**
+> **IUB Luddy Hackathon 2025 Submission**  
 
 ---
 ## Demo
 
 https://github.com/user-attachments/assets/8934c27f-0573-4c18-b83c-a9bfed38c548
+
+[Devpost Submission](https://devpost.com/software/service-wow?ref_content=user-portfolio&ref_feature=in_progress)
 
 ---
 
@@ -133,11 +135,11 @@ src/
 
 ---
 
-## 🏆 Our Luddy Hackathon Fall 2024 Team
+## 🏆 Our Luddy Hackathon 2025 Team
 
-- Aamir Hullur - Frontend Development & Project Management
-- Atharva Gurav - Backend & Firebase Integration
-- Manav Mandal - AI Integration & Prompt Engineering
+- Aamir Hullur 
+- Atharva Gurav
+- Manav Mandal 
 
 ---
 

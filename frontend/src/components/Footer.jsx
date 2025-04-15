@@ -10,7 +10,7 @@ const Footer = () => {
 			/>
 			
             <span>
-            IU Hackathon Fall 2024 © 
+            IU Hackathon 2025 © 
             </span>
 		</footer>
 	);
