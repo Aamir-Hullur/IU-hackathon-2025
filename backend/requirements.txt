@@ -1,0 +1,4 @@
+python-dotenv
+google-cloud-firestore
+google-generativeai
+functions-framework
